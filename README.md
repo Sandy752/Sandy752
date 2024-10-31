@@ -2,7 +2,7 @@
 
 I'm a passionate **Data Analyst** with expertise in turning data into actionable insights. Welcome to my GitHub profile!
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy752&label=Profile%20views&color=0e75b6&style=flat" alt="sandy752" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy752&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="sandy752" /> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy752&show_icons=true&locale=en&layout=compact" alt="sandy752" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy752&" alt="sandy752" /></p>
