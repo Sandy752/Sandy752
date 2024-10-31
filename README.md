@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello! I'm Sandeep
 
-<!--
-**Sandy752/Sandy752** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Data Analyst** with expertise in turning data into actionable insights. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandy752&label=Profile%20views&color=0e75b6&style=flat" alt="sandy752" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandy752&show_icons=true&locale=en&layout=compact" alt="sandy752" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandy752&" alt="sandy752" /></p>
+
+### Data Analysis Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
+
+### Data Visualization & Machine Learning
+![Seaborn](https://img.shields.io/badge/Seaborn-30B5E3?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+## 📊 What I Do
+
+- **Data Cleaning & Preparation**: I transform raw data into clean datasets.
+- **Data Visualization**: I create meaningful visualizations using Power BI and Seaborn.
+- **Web Development**: I build interactive web applications with Flask.
+- **Machine Learning**: I implement machine learning models using Scikit-learn.
+
+Feel free to check out my projects and collaborations!
+
+## 📫 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/sandeep752/)
+- Gmail - sandeepkumaritm@gmail.com
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate or chat! 🌟
